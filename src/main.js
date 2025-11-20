@@ -7,8 +7,8 @@ import img2 from "./icon/img2.jpg"
 document.querySelector('#app').innerHTML = `
   <div>
     
-      <img src="${img1}"  alt="img 1" />
-      <img src="${img2}"  alt="img 2" style ="height:450px" />
+      <img src="src/icon/img1.png"  alt="img 1" />
+      <img src="src/icon/img2.jpg"  alt="img 2" style ="height:450px" />
       
     
     <h1>Hello Vite!</h1>
